@@ -1,6 +1,6 @@
 # Diabetes Detection - Jupyter Notebook Project
 
-A machine learning project to detect diabetes using health-related data from the PIMA Indians Diabetes Dataset. Multiple models including XGBoost and Neural Networks are used and compared.
+A machine learning project to detect diabetes using health-related data from the PIMA Indians Diabetes Dataset. Multiple models, including XGBoost and Neural Networks, are used and compared.
 
 ---
 
@@ -27,7 +27,7 @@ A machine learning project to detect diabetes using health-related data from the
 
 ---
 
-##  Technologies & Libraries Used
+## Technologies & Libraries Used
 
 - Python  
 - Jupyter Notebook  
@@ -37,7 +37,8 @@ A machine learning project to detect diabetes using health-related data from the
 - Seaborn  
 - Scikit-learn  
 - TensorFlow  
-- XGBoost
+- XGBoost  
+- Streamlit *(optional for deployment)*
 
 ---
 
@@ -69,3 +70,5 @@ A machine learning project to detect diabetes using health-related data from the
 - Confusion matrix for all models  
 - ROC curves for model comparisons  
 - Neural Network training loss/accuracy graphs
+
+---
